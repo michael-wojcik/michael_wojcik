@@ -1,6 +1,6 @@
 {
   "name": "wojcik",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Personal npm card for Michael John Wojcik (@w0jc1k)",
   "main": "dist/card.js",
   "unpkg": "index.html",
