@@ -1,5 +1,5 @@
 {
-  "name": "michael_wojcik",
+  "name": "michael-wojcik",
   "version": "1.0.0",
   "description": "Personal npm card for Michael John Wojcik",
   "main": "dist/card.js",
